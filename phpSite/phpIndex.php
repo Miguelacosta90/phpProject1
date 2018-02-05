@@ -6,6 +6,10 @@
     <title>Miguels Php resume</title>
 </head>
 <body>
-<h1>Hello</h1>
+<?php
+    echo "Hello world"
+?>
+<h1>Miguel</h1>
+
 </body>
 </html>
